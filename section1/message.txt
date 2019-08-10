@@ -1,0 +1,1 @@
+sir%2Cwhen+i+am+try+to+input%28FORM%29+like+hello+message+and+click+on+send+SEND%28Button%29+.The+message+%27HELLO%27+is+not+saving+in+the+MESSAGE.TXT%28file%29+and+the++chrome+browser+take+me+to+ERROR+%28page%29+that+mean+the+%2F%2Fhttp%3Alocalhost%3A1000%2F+is+not+redirecting+in+the+same+page+of+FORM+and+BUTTON+.
